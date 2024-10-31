@@ -1,4 +1,5 @@
 # Nat Robot
+## In progress
 The AI-Powered Mini Robot with a Mind of its own
 Principal goal:
  - can talk with you (like alexa but intelligent)
